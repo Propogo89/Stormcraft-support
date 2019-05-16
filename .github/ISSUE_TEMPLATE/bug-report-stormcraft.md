@@ -1,10 +1,10 @@
 ---
 name: Bug report-Stormcraft Discord
-about: Create a report to help us improve
+about: Describe the issue With the **StormCraft** Discord Server
 title: ''
-labels: bug
-assignees: ''
+labels: bug, Discord problem
+assignees: Propogo89, Stormcraft-Net
 
 ---
 
-*
+
